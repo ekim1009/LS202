@@ -1,0 +1,13 @@
+#headline {
+  color: red;
+  font-size: 48px;
+}
+
+tr {
+  background-color: lime;
+  font-size: 200%;
+}
+
+.teaching-assistant {
+  background-color: yellow;
+}
