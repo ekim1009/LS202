@@ -1,0 +1,129 @@
+/*body {*/
+  /*font-size: 20px;*/
+  /*font-family: Tahoma, "Trebuchet MS", Verdana, sans-serif;*/
+  /*font-style: italic;*/
+  /*font-weight: bold;*/
+  /*line-height: 2.5;*/
+/*  font: italic bold 20px/2.5 Verdana, "Trebuchet MS", Tahoma, sans-serif;*/
+/*  text-align: left;*/
+/*  text-indent: 4em;*/
+/*}*/
+
+/*h1 {*/
+/*  color: blue;*/
+/*  font-family: Georgia, serif;*/
+/*}*/
+
+/*body {*/
+  /*font-family: Helvetica, Arial, sans-serif;*/
+  /*font-size: 14px;*/
+/*  font: normal 14px Helvetica, Arial, sans-serif;*/
+/*}*/
+
+/*code{*/
+/*  color: green;*/
+/*  font-family: monospace;*/
+/*  font-style: italic;*/
+/*  text-decoration: underline;*/
+/*}*/
+/* problem 14 below*/
+/*body {*/
+/*  font-size: 18px;*/
+/*}*/
+
+/*mark {*/
+/*  background-color: yellow;*/
+/*  font-family: Courier, monospace;*/
+/*  font-size: 12px;*/
+/*}*/
+
+/*strong {*/
+/*  font-size: 15px;*/
+/*}*/
+
+/*em {*/
+/*  font-size: 20px;*/
+/*  text-transform: uppercase;*/
+/*}*/
+/* problem 15 below*/
+/*a{*/
+/*  color: red;*/
+/*  text-decoration: none;*/
+/*}*/
+
+/*div {*/
+/*  display: inline-block;*/
+/*  box-sizing: border-box;*/
+/*  height: 300px;*/
+/*  width: 300px;*/
+/*}*/
+
+/*.first {*/
+/*  background-color: #fcc;*/
+/*  padding: 20px;*/
+/*  margin-right: 20px;*/
+/*}*/
+
+/*.second {*/
+/*  background-color: #ccf;*/
+/*  border: 5px solid black;*/
+/*}*/
+
+/* body {*/
+/*  margin: 50px;*/
+/*}*/
+
+/*ul {*/
+/*  background-color: #a7ceff;*/
+/*  border: 10px solid blue;*/
+/*  list-style: none;*/
+/*  padding: 0;*/
+/*}*/
+
+/*li {*/
+/*  display: inline-block;*/
+/*  background-color: #ffc;*/
+/*  border: 10px solid red;*/
+/*  box-sizing: border-box;*/
+/*  line-height: 120px;*/
+/*  min-height: 120px;*/
+/*  text-align: center;*/
+/*  width: 23%;*/
+/*  margin: 0 1%;*/
+/*}*/
+
+/*img {*/
+/*  height: 350px;*/
+/*  width: 400px;*/
+/*}*/
+
+/*figure {*/
+/*  background-color: yellow;*/
+/*}*/
+
+body, main, figure, figcaption, img {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-size: cover;
+  background-image: url(https://d3jtzah944tvom.cloudfront.net/202/images/lesson_3/gradient-background.png)
+}
+
+figure {
+  display: inline-block;
+  box-sizing: border-box;
+  margin: 50px 0;
+  padding: 0 50px;
+  width: 50%;
+}
+
+img {
+  /*max-width: 100%;*/
+  width: 100%;
+}
+
+figcaption {
+  text-align: center;
+}
